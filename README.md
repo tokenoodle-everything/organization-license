@@ -10,4 +10,5 @@ This is not a standard MIT / OSI open-source license.
 
 ---
 
-[![$1](https://img.shields.io/badge/Donate-$1-00457C?logo=paypal)](https://paypal.me/tokenoodle/1)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W6X42B1NF9)
+
